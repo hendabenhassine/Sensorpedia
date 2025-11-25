@@ -1,5 +1,5 @@
-# Sensorpedia - CodeAlpha Data Analytics Internship Project
-# 🌡️ Sensorpedia - CodeAlpha Data Analytics Internship Project
+# Sensorpedia -  Data Analytics  Project
+# 🌡️ Sensorpedia -  Data Analytics  Project
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" alt="Python">
