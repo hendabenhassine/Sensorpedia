@@ -69,5 +69,4 @@ The analysis revealed:
 - Expand data sources beyond Wikipedia
 - Create a sensor classification system
 
-## Acknowledgments
-Part of the CodeAlpha Data Analytics Internship program.
+
